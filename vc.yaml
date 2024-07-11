@@ -1,0 +1,7 @@
+- - job: Tech writer
+    name: Ivan Katkov
+    skill: Normal
+  - employed: true
+    job: Techwriter
+    name: Ivan Katkov
+    skill: Normal
